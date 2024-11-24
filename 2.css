@@ -1,0 +1,24 @@
+.q1 {border-style: ridge;
+border-color: green;
+width: 200px; height: 100px;}
+.q2 {border-style: dotted;
+border-color: red;
+width: 200px; height: 100px;}
+.q3 {border-style: outset;
+border-color: chocolate;
+width: 200px; height: 100px;}
+.q4 {border-style: groove;
+border-color: crimson;
+width: 200px; height: 100px;}
+.q5 {border-style: inset;
+border-color: blueviolet;
+width: 200px; height: 100px;}
+.q6 {border-style: double;
+border-color: yellow;
+width: 200px; height: 100px;}
+.q7 {border-style: dashed;
+border-color: blue;
+width: 200px; height: 100px;}
+.q8 {border-style: solid;
+border-color: aqua;
+width: 200px; height: 100px;}
